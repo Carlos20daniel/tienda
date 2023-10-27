@@ -15,6 +15,9 @@
             body{
                 background-color: aqua;
             }
+            .ventas{
+                background-color: aquamarine;
+            }
             .imagen{
                 border: 50px;
             }
